@@ -1,3 +1,26 @@
-![Gamba](https://user-images.githubusercontent.com/127314884/230608922-dfc7d430-7931-4bad-98e2-46de91e79fc3.png)
+<a href="https://gamba.so">
+  <img src="https://github.com/gamba-labs/gamba/assets/127314884/fd1227f8-8b63-4515-94fd-6ea1625e8083" alt="Gamba Banner" />
+</a>
 
-# Gamba
+<div align="center">
+
+[![npm version](https://img.shields.io/npm/v/gamba.svg?color=orange)](https://www.npmjs.com/package/gamba) [![npm downloads](https://img.shields.io/npm/dt/gamba.svg?color=orange)](https://www.npmjs.com/package/gamba)
+
+<h3>Create betting games on Solana with zero deployments ✨</h3><hr />
+
+<table>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://gamba.so">📝 Documentation</a>
+        </td>
+        <td>
+          <a href="https://discord.com/invite/xjBsW3e8fK">💬 Discord</a>
+        </td>
+        <td>
+          <a href="https://twitter.com/gambalabs">🐦 Twitter</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
