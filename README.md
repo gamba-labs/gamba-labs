@@ -3,9 +3,6 @@
 </a>
 
 <div align="center">
-
-[![npm version](https://img.shields.io/npm/v/gamba.svg?color=orange)](https://www.npmjs.com/package/gamba) [![npm downloads](https://img.shields.io/npm/dt/gamba.svg?color=orange)](https://www.npmjs.com/package/gamba)
-
 <table>
     <tbody>
       <tr>
