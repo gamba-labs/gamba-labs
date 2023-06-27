@@ -6,11 +6,12 @@
 
 [![npm version](https://img.shields.io/npm/v/gamba.svg?color=orange)](https://www.npmjs.com/package/gamba) [![npm downloads](https://img.shields.io/npm/dt/gamba.svg?color=orange)](https://www.npmjs.com/package/gamba)
 
-<h3>Create betting games on Solana with zero deployments ✨</h3><hr />
-
 <table>
     <tbody>
       <tr>
+        <td>
+          <a href="https://github.com/gamba-labs/gamba">📦 Packages</a>
+        </td>
         <td>
           <a href="https://gamba.so">📝 Documentation</a>
         </td>
